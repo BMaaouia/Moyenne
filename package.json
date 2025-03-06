@@ -1,0 +1,27 @@
+{
+  "homepage": "http://BMaaouia.github.io/Moyenne",
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh_pages -d build"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "git": "^0.1.5",
+    "jquery": "^3.6.0",
+    "npm-git-install": "^0.3.0",
+    "react-rangeslider": "^2.2.0",
+    "xtype": "^0.0.7",
+    "xtypejs": "^0.7.1"
+  },
+  "presets": [
+    "@babel/preset-react",
+    {
+      "throwIfNamespace": false,
+      "runtime": "classic"
+    }
+  ]
+}
