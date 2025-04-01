@@ -1,6 +1,6 @@
-ESPRIT Student Grade Calculator
+# ESPRIT Student Grade Calculator
 
-Description
+## Description
 
 This is a MERN stack web application that allows ESPRIT students to calculate their average grades based on their course scores. The app provides an intuitive user interface for students to input their grades, view their overall performance, and analyze their academic progress.
 
